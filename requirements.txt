@@ -1,0 +1,6 @@
+pandas
+joblib
+matplotlib
+matplotlib-inline
+scikit-learn
+kagglehub
