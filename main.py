@@ -76,7 +76,7 @@ root.title("Stock Price Predictor")
 root.geometry("1200x800")
 
 # Labels and Entry Fields
-tk.Label(root, text="Enter Date (YYYY-MM-DD):", font=("Arial", 14)).pack()
+tk.Label(root, text="Enter Date (DD-MM-YYYY):", font=("Arial", 14)).pack()
 date_entry = tk.Entry(root, font=("Arial", 14))
 date_entry.pack()
 
