@@ -3,7 +3,7 @@
 pyproject.toml
 .git
 .gitignore
-.gitignore
+.gitattributes
 .idea
 .python-version
 .vscode
